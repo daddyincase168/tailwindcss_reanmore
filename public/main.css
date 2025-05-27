@@ -554,6 +554,10 @@ video {
   --tw-contain-style:  ;
 }
 
+.ml-9 {
+  margin-left: 2.25rem;
+}
+
 .w-\[5rem\] {
   width: 5rem;
 }
@@ -566,6 +570,10 @@ video {
   width: 5rem;
 }
 
+.list-disc {
+  list-style-type: disc;
+}
+
 .bg-\[\#0000\] {
   background-color: #0000;
 }
@@ -573,6 +581,23 @@ video {
 .bg-yellow-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+}
+
+.text-7xl {
+  font-size: 4.5rem;
+  line-height: 1;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.tracking-wider {
+  letter-spacing: 0.05em;
 }
 
 .text-blue-50 {
