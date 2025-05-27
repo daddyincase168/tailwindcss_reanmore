@@ -554,6 +554,22 @@ video {
   --tw-contain-style:  ;
 }
 
+.w-\[5rem\] {
+  width: 5rem;
+}
+
+.w-5 {
+  width: 1.25rem;
+}
+
+.w-5r {
+  width: 5rem;
+}
+
+.bg-\[\#0000\] {
+  background-color: #0000;
+}
+
 .text-blue-50 {
   --tw-text-opacity: 1;
   color: rgb(239 246 255 / var(--tw-text-opacity));
